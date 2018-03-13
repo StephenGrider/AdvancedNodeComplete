@@ -1,3 +1,5 @@
+// Don't be like me and commit this file!
+// These keys have been disabled, but remain here for reference purposes.
 module.exports = {
   googleClientID:
     '964808011168-29vqsooppd769hk90kjbjm5gld0glssb.apps.googleusercontent.com',
