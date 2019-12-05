@@ -1,5 +1,3 @@
-// node myFile.js
-
 const pendingTimers = [];
 const pendingOSTasks = [];
 const pendingOperations = [];
