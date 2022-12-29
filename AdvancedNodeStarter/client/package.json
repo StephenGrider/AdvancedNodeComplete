@@ -17,7 +17,7 @@
     "react-dom": "^16.0.0-alpha.13",
     "react-redux": "^5.0.5",
     "react-router-dom": "^4.1.1",
-    "react-scripts": "1.0.10",
+    "react-scripts": "5.0.1",
     "redux": "^3.7.1",
     "redux-form": "^7.0.1",
     "redux-thunk": "^2.2.0"
